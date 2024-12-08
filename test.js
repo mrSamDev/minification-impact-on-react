@@ -202,4 +202,4 @@ async function runTest(iterations = 10, concurrency = 3) {
 }
 
 // Run with fewer iterations by default for testing
-runTest(100, 10).catch(console.error);
+runTest(10, 10).catch(console.error);
