@@ -6,7 +6,7 @@ A practical experiment measuring the impact of JavaScript and CSS minification o
 
 This repository contains code and test infrastructure for measuring the performance impact of frontend asset minification. The experiment provides quantitative data comparing minified and unminified builds across multiple metrics including bundle size, load time, and runtime performance.
 
-For detailed analysis and methodology, check out the accompanying blog post: [Understanding Minification Impact: A Developer's Experiment](https://www.sijosam.in/blog/sustainable-development-1/)
+For detailed analysis and methodology, check out the accompanying blog post (Not released yet): [Understanding Minification Impact: A Developer's Experiment](https://www.sijosam.in/blog/sustainable-development-1/)
 
 ## Key Findings
 
@@ -34,8 +34,8 @@ Our experimental results demonstrated significant improvements through minificat
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/minification-analysis
-cd minification-analysis
+git clone https://github.com/mrSamDev/minification-impact-on-react
+cd minification-impact-on-react
 ```
 
 2. Install dependencies:
